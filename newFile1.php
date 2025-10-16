@@ -1,3 +1,3 @@
 <?php
-	echo 'aaa' . 'bbb';
+	echo 'aaa' . 'bbb' . 'ccc' . 'd';
 ?>
